@@ -133,31 +133,6 @@
 		},
 		"sort": [1608418102174]
 	}],
-	"number": 0,
-	"size": 25,
-	"totalElements": 3,
-	"pageable": {
-		"sort": {
-			"unsorted": true,
-			"sorted": false,
-			"empty": true
-		},
-		"pageSize": 25,
-		"pageNumber": 0,
-		"offset": 0,
-		"unpaged": false,
-		"paged": true
-	},
-	"last": true,
-	"totalPages": 1,
-	"sort": {
-		"unsorted": true,
-		"sorted": false,
-		"empty": true
-	},
-	"first": true,
-	"numberOfElements": 3,
-	"empty": false,
 	"profile": {
 		"name": "typicode"
 	}
