@@ -87,51 +87,6 @@
 			"plain_description": "Device - 003b3616 deleted from group '0ebe9582'"
 		},
 		"sort": [1608418102186]
-	}, {
-		"_index": "event_service_1_2020-12-19",
-		"_type": "event",
-		"_id": "21:4bcf0be0-424c-11eb-dfff-00000316c322",
-		"_source": {
-			"customer_uid": "TEST-xqTL3dKLTDiTEdmzlw3adQ",
-			"user_name": "edrCust-aws-dev166309 Test",
-			"timezone": 0,
-			"es.mapping.id": "uuid",
-			"feature_uid": "0FE39988-3092-4F70-AD7A-0DEC58D20028",
-			"object_uid": "TF_d3t8gQkaHau_6fYKDTw",
-			"uuid": "21:4bcf0be0-424c-11eb-dfff-00000316c322",
-			"current_type": "devices",
-			"device_name": "003b3616",
-			"category_id": 4,
-			"object_name": "003b3616",
-			"feature_ver": "v1.0",
-			"indexHash": "1",
-			"id": 1,
-			"current_name": "003b3616",
-			"es.mapping.version": "epochLogTime",
-			"product_uid": "31B0C880-0229-49E8-94C5-48D56B1BD7B9",
-			"device_time": "2020-12-19T22:48:22.174Z",
-			"feature_name": "Device and Group Manager",
-			"log_name": "event_service_1_2020-12-19/event",
-			"type_id": 21,
-			"message": "Device - 003b3616 deleted",
-			"epochLogTime": 1608418103114,
-			"log_time": "2020-12-19T22:48:23.114Z",
-			"epmp_session_id": "2012192237",
-			"device_uid": "TF_d3t8gQkaHau_6fYKDTw",
-			"domain_uid": "TEST-I67sSm_ARJWaSo4QR1gUKQ",
-			"indexDate": "2020-12-19",
-			"severity_id": 1,
-			"time": "2020-12-19T22:48:22.174Z",
-			"entity": {
-				"uid": "TF_d3t8gQkaHau_6fYKDTw",
-				"name": "003b3616",
-				"type": "devices"
-			},
-			"user_uid": "Ad3wspnITpuoZAK4Ax_q6Q",
-			"html_description": "Device - 003b3616 deleted",
-			"plain_description": "Device - 003b3616 deleted"
-		},
-		"sort": [1608418102174]
 	}],
 	"profile": {
 		"name": "typicode"
